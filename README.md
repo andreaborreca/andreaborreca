@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profilo GitHub Views](https://komarev.com/ghpvc/?username=andreaborreca)
+<!--![Profilo GitHub Views](https://komarev.com/ghpvc/?username=andreaborreca)
 
 <!--
 **andreaborreca/andreaborreca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
