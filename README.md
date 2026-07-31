@@ -31,13 +31,13 @@ Growing up with two "punk tech" parents like them led me almost naturally toward
 
 What still fascinates me about programming is the ability to start from an idea and turn it into something concrete, useful, and accessible.
 
-Humanbit's technological transition was one of the defining moments of my professional path. Together with a colleague, and under the CTO's supervision, we gradually replaced Symphony CMS and XSLT with Laravel and Next.js. It was a bet that paid off, letting us build more modern, flexible applications with steadily increasing technological value.
+**Humanbit's** technological transition was one of the defining moments of my professional path. Together with a colleague, and under the CTO's supervision, we gradually replaced Symphony CMS and XSLT with **Laravel** and **Next.js**. It was a bet that paid off, letting us build more modern, flexible applications with steadily increasing technological value.
 
-The move to a new office and daily collaboration with Cashberry then brought me closer to the startup world. Working in a small team, in close contact with the CTO, got me used to not staying confined to a single area: backend, frontend, and DevOps became complementary parts of the same job.
+The move to a new office and daily collaboration with **Cashberry** then brought me closer to the startup world. Working in a small team, in close contact with the CTO, got me used to not staying confined to a single area: **backend, frontend, and DevOps** became complementary parts of the same job.
 
-Over the past year my path has shifted toward the banking sector. Facing stricter requirements and different infrastructures and technologies has considerably accelerated my growth, especially around security, scalability, and adapting solutions to client needs.
+Over the past year my path has shifted toward the **banking sector**. Facing stricter requirements and different infrastructures and technologies has considerably accelerated my growth, especially around **security, scalability**, and adapting solutions to client needs.
 
-Today I work as a Tech Lead, while still keeping a hands-on approach. I take part in technical decisions, support the team, and keep writing code, treating every project as a chance to learn something new and have fun.
+Today I work as a **Tech Lead**, while still keeping a hands-on approach. I take part in technical decisions, support the team, and keep writing code, treating every project as a chance to learn something new and have fun.
 
 I haven't done the unthinkable yet, but I still get a thrill out of those console messages.
 
