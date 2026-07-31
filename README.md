@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Andrea 👋</h1>
+<h1>Hi, I'm Andrea, but you can call me Pino! 🌲</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Tech+Lead+%40+Humanbit;Laravel+%C2%B7+AWS+%C2%B7+Docker+%C2%B7+CI%2FCD;Backend%2C+Frontend%2C+DevOps+%E2%80%94+one+job" alt="Typing SVG" />
