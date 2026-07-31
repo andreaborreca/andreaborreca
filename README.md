@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="[https://linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/andreaborreca/)">
+<a href="https://www.linkedin.com/in/andreaborreca/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:andrea.borreca@hotmail.com">
