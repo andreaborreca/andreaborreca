@@ -79,6 +79,16 @@ I haven't done the unthinkable yet, but I still get a thrill out of those consol
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreaborreca&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreaborreca/andreaborreca/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreaborreca/andreaborreca/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/andreaborreca/andreaborreca/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
